@@ -1,4 +1,4 @@
-* I’m @senrut
+* I’m senrut
 
 * I’m interested in JavaScript
 
